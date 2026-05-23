@@ -59,6 +59,5 @@ All assignment milestones are completed in compliance with the program directive
 1.  Codes and answers are written on paper with a pen.
 2.  Tables of outputs of the final outcome are drawn.
 3.  Completed tasks are turned into pdf and uploaded on GitHub.
--------------------------------------------------------------------------------------------------------------------------------------------
-ery refactors are always welcome via an issue or pull request!
+-------------------------------------------------------------------------------------------------------------------------------------------equest!
 
